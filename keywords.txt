@@ -1,0 +1,6 @@
+UART	KEYWORD1
+init	KEYWORD2
+setToListen	KEYWORD2
+getData	KEYWORD2
+sendData	KEYWORD2
+getBuffer	KEYWORD2
